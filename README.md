@@ -19,9 +19,9 @@ Both accounts are mine.
 | YouTube | [pp4mnk EasyOS](https://www.youtube.com/@pp4mnkeasyos) | Videos and demonstrations |
 | WordPress | [EasyOS Install](https://easyosinstall.wordpress.com/) | Articles, guides and project information |
 
-## Selected projects on SourceForge
+## Selected projects on SourceForge  
 
-### EasyOS REPAIR Center
+[### EasyOS REPAIR Center
 A central entry point for EasyOS repair utilities.
 
 [Project and downloads](https://sourceforge.net/projects/easyos-repair-center/)
@@ -60,7 +60,7 @@ My Firefox preload project.
 ### JWM Autorise
 An automatic window-raising utility for JWM in EasyOS.
 
-[Project and downloads](https://sourceforge.net/projects/jwm-autorise/)
+[Project and downloads](https://sourceforge.net/projects/jwm-autorise/)](https://archive.org/details/@puppyuser)
 
 This is a selected list. Visit my
 [SourceForge profile](https://sourceforge.net/u/pp4mnk/profile)
